@@ -1,0 +1,20 @@
+[
+	{
+		"key": "com.logarithmic.logworks",
+		"name": "LogWorks Main App",
+		"versionCode": "2",
+		"versionName": "1.1",
+		"size": "4263136",
+		"md5Hash": "wkdCVlt4pMetGT0fPu90/w==",
+		"filename": "LogWorks_20181031010200_2.apk"
+	},
+	{
+		"key": "com.logarithmic.logworks.plugins.stock",
+		"name": "Stock Plugins for LogWorks",
+		"versionCode": "2",
+		"versionName": "1.1",
+		"size": "0",
+		"md5Hash": "unknown",
+		"filename": ""
+	}
+]
